@@ -1,6 +1,6 @@
 
-## 👋 안녕하세요! 웹퍼블리셔/프론트엔드 목표로 성장중인 주니어 개발자 배윤주입니다! <br>
-## Hello there! My name is Yunju Bae! I'm studying to become a front-end developer!
+## 👋웹퍼블리셔/프론트엔드 목표로 성장중인 주니어 개발자<br>
+## studying to become a front-end developer!
 
 💻 Aspiring Frontend Developer <br>
 🎨 Passionate about responsive web design <br>
