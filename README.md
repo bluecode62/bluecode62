@@ -1,5 +1,3 @@
-
-## 👋웹퍼블리셔/프론트엔드 목표로 성장중인 주니어 개발자<br>
 ## studying to become a front-end developer!
 
 💻 Aspiring Frontend Developer <br>
