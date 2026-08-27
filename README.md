@@ -1,4 +1,4 @@
-## studying to become a front-end developer!
+## 🚀 About me
 
 💻 Aspiring Frontend Developer <br>
 🎨 Passionate about responsive web design <br>
